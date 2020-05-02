@@ -27,4 +27,4 @@ reports:
     
 artifacts:
   files:
-    - target\02-springboot-todo-rest-api-h2-continuous-deployment-pipeline-0.0.1-SNAPSHOT.jar
+    - target/02-springboot-todo-rest-api-h2-continuous-deployment-pipeline-0.0.1-SNAPSHOT.jar
